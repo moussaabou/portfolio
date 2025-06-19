@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/moussaabou/portfolio/static/css/main.cfcad9ec.css",
+    "main.js": "/moussaabou/portfolio/static/js/main.4df1c92b.js",
+    "static/js/156.f9a00fa4.chunk.js": "/moussaabou/portfolio/static/js/156.f9a00fa4.chunk.js",
+    "static/media/review_3.png": "/moussaabou/portfolio/static/media/review_3.09f3ea6305729de3884f.png",
+    "service-worker.js": "/moussaabou/portfolio/service-worker.js",
+    "index.html": "/moussaabou/portfolio/index.html",
+    "main.cfcad9ec.css.map": "/moussaabou/portfolio/static/css/main.cfcad9ec.css.map",
+    "main.4df1c92b.js.map": "/moussaabou/portfolio/static/js/main.4df1c92b.js.map",
+    "156.f9a00fa4.chunk.js.map": "/moussaabou/portfolio/static/js/156.f9a00fa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfcad9ec.css",
+    "static/js/main.4df1c92b.js"
+  ]
+}
