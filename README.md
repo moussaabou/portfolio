@@ -7,7 +7,7 @@ This is a simple and modern portfolio website built using **React** and **Tailwi
 - 🌓 Dark Mode toggle
 - 🖼️ Hero section with profile picture
 - 🌍 Multilingual support (Arabic, French, English)
-- 🧩 Sections: About, Projects, Contact
+- 🧩 Sections: About, Projects, Languages, Education & Certificates, Skills.
 - 🎨 Modern design & responsive layout
 - 💫 Smooth animations with Framer Motion
 
